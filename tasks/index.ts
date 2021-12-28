@@ -1,3 +1,9 @@
 import "./newRound";
 import "./register";
 import "./tokenTransferOwnership";
+import "./buytoken";
+import "./newOrder";
+import "./trade";
+import "./closeOrder";
+import "./ethToOwner";
+import "./transferTokenOwnerShipBack";
